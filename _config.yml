@@ -6,8 +6,8 @@ title: menecio
 email: aristobulo@menecio.me
 author: menecio
 baseurl: ""
-keywords: "python,django,developer,backend,django-rest-framework,drf"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione nihil, velit odio quia autem quos. Natus itaque sint, nisi fuga dolorum. Iste ea cumque, aliquam dignissimos vitae labore atque minima?"
+keywords: "python,django,developer,backend,django-rest-framework,drf,menecio"
+description: "Hi I'm Aristobulo (a.k.a menecio), I <3 writting things (that might work) in Python, and this is my blog."
 social_username: menecio
 
 # Build settings ...

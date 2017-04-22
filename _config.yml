@@ -1,14 +1,14 @@
 # Site settings ...
-uri: domain.com
-url: https://domain.com
-name: Your name
-title: Mangan
-email: example@domain.com
-author: username
+uri: menecio.me
+url: https://menecio.me
+name: Aristobulo Meneses
+title: menecio
+email: aristobulo@menecio.me
+author: menecio
 baseurl: ""
-keywords: "Your, Keyword, Here"
+keywords: "python,django,developer,backend,django-rest-framework,drf"
 description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione nihil, velit odio quia autem quos. Natus itaque sint, nisi fuga dolorum. Iste ea cumque, aliquam dignissimos vitae labore atque minima?"
-social_username: username
+social_username: menecio
 
 # Build settings ...
 sass:
